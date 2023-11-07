@@ -32,10 +32,12 @@ body {
 .content-container h4 {
  padding-bottom: 35px;
  text-align: center;
+ max-width: 90%;
  margin: auto;
 }
 
 .content-container button {
+    color: black;
     padding: 15px 20px;
     border: solid 2px rgb(136, 12, 12);
     border-radius: 5px;
